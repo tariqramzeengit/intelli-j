@@ -34,4 +34,5 @@ package org.example;
             this.personalityType = type;
         }
         // new one
+        //new one
     }
