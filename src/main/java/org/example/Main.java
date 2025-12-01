@@ -36,4 +36,6 @@ package org.example;
         // new one
         //new one
         //old one new style
+        //new one is not broken
+
     }
